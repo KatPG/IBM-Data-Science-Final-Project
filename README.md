@@ -3,7 +3,7 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 
           1.	Data Collection APA
           2.	Data Collection with Web Scraping
-          3.  Data Wrangling
+          3.        Data Wrangling
           4.	EDA with SQL
           5.	EDA with Visualization
           6.	Interactive Visual Analytics with Folium
